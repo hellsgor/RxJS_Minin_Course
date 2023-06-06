@@ -1,0 +1,16 @@
+.rects {
+  display: flex;
+  column-gap: 36px;
+}
+
+.rect {
+  width: 136px;
+  height: 136px;
+  background-color: yellowgreen;
+  color: red;
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  justify-content: center;
+  align-items: center;
+}
